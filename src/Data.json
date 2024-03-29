@@ -1,0 +1,37 @@
+[
+{
+  "name": "Red Rocks",
+  "image": "draw",
+  "region": "North America",
+  "routes": 2621,
+  "type": "Sandstone"
+}, 
+{
+  "name": "Reimers Ranch",
+  "image": "draw",
+  "region": "North America",
+  "routes": 321,
+  "type": "Limestone"
+}, 
+{
+  "name": "Hueco Tanks",
+  "image": "boulder",
+  "region": "North America",
+  "routes": 1621,
+  "type": "Sandstone"
+}, 
+{
+  "name": "Squamish",
+  "image": "nut",
+  "region": "North America",
+  "routes": 1234,
+  "type": "Granite"
+}, 
+{
+  "name": "Horseshoe Canyon Ranch",
+  "image": "draw",
+  "region": "North America",
+  "routes": 512,
+  "type": "Limestone"
+}
+]
